@@ -278,6 +278,7 @@ a:hover{
   background-color: rgb(34, 31, 31);
   background-image: url("https://www.10wallpaper.com/wallpaper/2560x1600/1308/simple_gray-design_HD_wallpaper_2560x1600.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /* Atualizações de Envios */
